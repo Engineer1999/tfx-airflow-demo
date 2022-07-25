@@ -1,4 +1,4 @@
-# Detect-technologies-I2
+# Demo
 
 ## Follow below steps to run the demo
 
